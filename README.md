@@ -4,10 +4,8 @@ Code for the image-caption retrieval methods from
 **[VSE++: Improving Visual-Semantic Embeddings with Hard Negatives](https://arxiv.org/abs/1707.05612)**
 *, F. Faghri, D. J. Fleet, J. R. Kiros, S. Fidler, Proceedings of the British Machine Vision Conference (BMVC),  2018. (BMVC Spotlight)*
 
-CAN I MODIFY IT SUCCESSFULLY???
-
 ## Dependencies
-We recommended to use Anaconda for the following packages.
+We recommended to use Anaconda for the follgdfgdowing packages.
 
 * Python 3.5
 * [PyTorch](http://pytorch.org/) (>0.2)
