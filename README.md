@@ -5,7 +5,7 @@ Code for the image-caption retrieval methods from
 *, F. Faghri, D. J. Fleet, J. R. Kiros, S. Fidler, Proceedings of the British Machine Vision Conference (BMVC),  2018. (BMVC Spotlight)*
 
 ## Dependencies
-We recommended to use Anaconda for the following packages.
+We recommegfdsgdfnded to use Anaconda for the following packages.
 
 * Python 3.5
 * [PyTorch](http://pytorch.org/) (>0.2)
